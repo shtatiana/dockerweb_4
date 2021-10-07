@@ -1,3 +1,3 @@
 # dockerweb_3
 
-* Practice 3 with counter in SQLite DB
+* Practice 4 with counter in redis DB
